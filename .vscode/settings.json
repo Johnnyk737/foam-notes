@@ -21,6 +21,7 @@
   "markdown.preview.breaks": true,
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
+  "pasteImage.defaultName": "${currentFileNameWithoutExt}_YYYYMMDD-HHmmss",
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
