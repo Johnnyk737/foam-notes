@@ -70,3 +70,23 @@ public class LinkedList {
   }
 }
 ```
+
+
+
+coding then behavioral
+focus
+  communication!!
+  complete task before interview - 24hrs
+  explain solution
+  during, will be asked to add a feature or update performance
+  send via zip file or cloud storage
+behavioral
+ 3 areas: 
+    moments when you worked others
+    how I work with feedback - positive/negative - both maybe
+    project work - what I consider as a successful project
+      how I work when things go wrong
+  hit past experience
+  assume interviewer has no idea about the company I work for
+
+architecture part
